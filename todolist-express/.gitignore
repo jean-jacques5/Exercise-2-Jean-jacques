@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data (optionnel si tu ne veux pas versionner les tâches locales)
+# data/tasks.json
