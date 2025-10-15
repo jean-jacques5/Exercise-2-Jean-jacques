@@ -8,5 +8,5 @@ package-lock.json
 Thumbs.db
 .vscode/
 
-# Data (optionnel si tu ne veux pas versionner les tâches locales)
+# Data 
 # data/tasks.json
