@@ -15,7 +15,7 @@ et à créer une API REST fonctionnelle en JavaScript.
 
 ##  Installation
 
-### 1️⃣ Cloner le projet
+1️⃣ Cloner le projet
 ```bash
 git clone https://github.com/<ton-pseudo>/Exercise-2-Jean-jacques.git
 cd Exercise-2-Jean-jacques
